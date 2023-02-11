@@ -1,4 +1,5 @@
-﻿namespace HealthCare;
+﻿using HealthCare.Views;
+namespace HealthCare.Views;
 
 public partial class MainPage : ContentPage
 {
