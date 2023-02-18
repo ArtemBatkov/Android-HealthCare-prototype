@@ -22,3 +22,6 @@
 ###### Preferences: StepCounter is the best sensor, because it works outside the app, plus it works in the hardware layer, so it doesn't load the system.
 ###### Alternatives: Accelerometer can be used if there are any others sensors. Accelerometer doesn't know anything about the steps, it just fetches 3 coordinates X,Y,Z. Knowing these data the magnitude can be computed. Each value of magnitude can be stored in a temporary array, and then analyzed. 
 
+
+## Schema can be presented as the following:
+![Components relationship](https://user-images.githubusercontent.com/110242091/219827237-7dee3a80-1deb-429a-8aeb-e70641fbcf94.jpg)
